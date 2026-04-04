@@ -1,4 +1,4 @@
-# 🔍 Implement a scanner to detect open ports and services.
+# 🔍 Problem Statement: Implement a scanner to detect open ports and services.
 #    Project explanation: Concurrent scanning; Timeout & retry logic; Banner grabbing; Scan efficiency evaluation
 
 ## 📌 Project Overview
@@ -164,9 +164,12 @@ Scan completed in 1.25 seconds
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-* Your Name
+* NAME: CHINNALA MANISH RANGA
+  SRN : PES2UG24CS135
+* NAME: G NIKHIL
+  SRN : PES2UG24CS165
 
 ---
 
