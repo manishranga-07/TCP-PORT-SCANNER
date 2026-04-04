@@ -30,7 +30,7 @@ port_scanner_project/
 ├── client.py          # Core scanning logic
 ├── gui_client.py      # GUI interface
 ├── load_test.py       # Load testing + graphs
-├── requirements.txt   # Dependencies
+├── performance.py     # analyze the efficiency of the port scanner
 └── README.md
 ```
 
@@ -83,7 +83,16 @@ python load_test.py
 * Average scan time graph
 
 ---
+### 3️⃣ Run Performance 
 
+```
+python performance.py
+```
+
+📊 This will generate:
+* Number of threads vs scan time
+
+---
 ## 🌐 Running on Two Systems
 
 * Run **server.py** on System 1
