@@ -83,7 +83,7 @@ python load_test.py
 * Average scan time graph
 
 ---
-### 3️⃣ Run Performance 
+### 4 Run Performance 
 
 ```
 python performance.py
