@@ -32,6 +32,8 @@ port_scanner_project/
 ├── load_test.py       # Load testing + graphs
 ├── performance.py     # analyze the efficiency of the port scanner
 └── README.md
+|- Load_&_Performance_Test_Graphs
+|- Sample_Output
 ```
 
 ---
