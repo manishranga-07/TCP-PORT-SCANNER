@@ -59,10 +59,10 @@ python server.py
 
 ---
 
-### 2️⃣ Run GUI Client (System 2 or same system)
+### 2️⃣ Run Client (System 2 or same system)
 
 ```
-python gui_client.py
+python client.py
 ```
 
 Enter:
